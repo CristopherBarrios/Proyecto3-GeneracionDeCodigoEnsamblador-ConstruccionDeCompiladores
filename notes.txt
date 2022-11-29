@@ -1,0 +1,6 @@
+mov = asignar valores a lor registros
+add = sumar valores
+sub = restar
+mul = multiplica
+udiv = divide 
+bx lr = retorno
